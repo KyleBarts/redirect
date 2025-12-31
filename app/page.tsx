@@ -11,7 +11,7 @@ export default function Home() {
         </p>
 
         <p className="muted">
-          Why are you even here. You were supposed to follow the link man
+          Why are you even here. You were supposed to follow the link man.
         </p>
       </section>
     </main>
